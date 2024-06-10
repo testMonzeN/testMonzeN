@@ -6,7 +6,14 @@
 - 🗄 MySql
 - 🌱 Git / GitHub
 
-
+🔧 I know:
+- 🔧 Python [main / studying]
+- 🔧 C++ [other]
+- 🔧 Java [other]
+- 🔧 C [other(bad)]
+- 🔧 PHP [other]
+- 🔧 html [studying]
+- 🔧 CSS [studying]
 
 How to reach me
 - 📫 vashhukr2008@mail.ru
