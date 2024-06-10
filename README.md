@@ -1,4 +1,17 @@
-## Hi there 👋
+## Hi, i'm Roman
+# I’m interested in Python
+
+🛠 I can:
+- 🔧 Python / Django 
+- 🗄 MySql
+- 🌱 Git / GitHub
+
+
+
+How to reach me
+📫 vashhukr2008@mail.ru
+📫 telegram: @KaradevBravoo
+📫 vk.com/monzentop
 
 <!--
 **testMonzeN/testMonzeN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +27,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
