@@ -9,9 +9,9 @@
 
 
 How to reach me
-📫 vashhukr2008@mail.ru
-📫 telegram: @KaradevBravoo
-📫 vk.com/monzentop
+- 📫 vashhukr2008@mail.ru
+- 📫 telegram: @KaradevBravoo
+- 📫 vk.com/monzentop
 
 <!--
 **testMonzeN/testMonzeN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
