@@ -1,5 +1,5 @@
-## Hi, i'm Roman
-# I’m interested in Python
+Hi, i'm Roman ...
+I’m interested in Python
 
 🛠 I can:
 - 🔧 Python / Django 
