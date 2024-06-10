@@ -7,7 +7,7 @@
 - 🌱 Git / GitHub
 
 🔧 I know:
-- 🔧 Python / Django [main / studying]
+- 🔧 Python / Django [main and studying]
 - 🔧 C++ [other]
 - 🔧 Java [other]
 - 🔧 C [other(bad)]
