@@ -17,7 +17,7 @@
 
 How to reach me
 - 📫 vashhukr2008@mail.ru
-- 📫 telegram: @KaradevBravoo
+- 📫 telegram: @KaradevNow
 - 📫 vk.com/monzentop
 
 
