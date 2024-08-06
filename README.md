@@ -14,10 +14,10 @@
 - 🔧 PHP [other]
 - 🔧 html [studying]
 - 🔧 CSS [studying]
+- 🔧 JavaScript [studying]
 
 How to reach me
 - 📫 vashhukr2008@mail.ru
 - 📫 telegram: @KaradevNow
-- 📫 vk.com/monzentop
 
 
