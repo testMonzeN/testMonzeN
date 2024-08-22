@@ -18,6 +18,6 @@
 
 How to reach me
 - 📫 vashhukr2008@mail.ru
-- 📫 telegram: @KaradevNow
+- 📫 telegram: @gospodinkaradev
 
 
