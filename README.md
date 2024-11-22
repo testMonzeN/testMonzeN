@@ -2,22 +2,18 @@
 👀 I’m interested in Python
 
 🛠 I can:
-- 🔧 Python / Django 
+- 🔧 Django 
 - 🗄 MySql
 - 🌱 Git / GitHub
 
 🔧 I know:
-- 🔧 Python / Django [main and studying]
-- 🔧 C++ [other]
-- 🔧 Java [other]
-- 🔧 C [other(bad)]
-- 🔧 PHP [other]
-- 🔧 html [studying]
-- 🔧 CSS [studying]
-- 🔧 JavaScript [studying]
+- 🔧 Python / Django [main]
+- 🔧 HTML
+- 🔧 CSS
+- 🔧 JavaScript
 
 How to reach me
-- 📫 vashhukr2008@mail.ru
+- 📫 vashhukr2008@gmail.com
 - 📫 telegram: @gospodinkaradev
-
+- 📫 vk.com/GospodinMonzeN
 
