@@ -4,7 +4,7 @@
 🛠 I can:
 - 🔧 Django 
 - 🗄 MySql
-- 🌱 Git / GitHub
+- 🌱 Git / GitHub / GitLab
 
 🔧 I know:
 - 🔧 Python / Django [main]
