@@ -14,6 +14,6 @@
 
 How to reach me
 - 📫 vashhukr2008@gmail.com
-- 📫 telegram: @gospodinkaradev
+- 📫 telegram: @KaradevFaceKid
 - 📫 vk.com/GospodinMonzeN
 
