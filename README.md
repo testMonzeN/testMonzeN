@@ -7,7 +7,7 @@
 - 🌱 Git / GitHub / GitLab
 
 🔧 I know:
-- 🔧 Python / Django [main]
+- 🔧 Python
 - 🔧 HTML
 - 🔧 CSS
 - 🔧 JavaScript
