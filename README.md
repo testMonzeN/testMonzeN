@@ -14,7 +14,7 @@
 
 How to reach me
 - 📫 vashhukr2008@gmail.com
-- 📫 telegram: @KaradevFaceKid
+- 📫 telegram: @UglyBlessed
 - 📫 Discord: karadevfacekid
 - 📫 vk.com/GospodinMonzeN
 
