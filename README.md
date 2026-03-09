@@ -15,6 +15,6 @@
 How to reach me
 - 📫 vashhukr2008@gmail.com
 - 📫 telegram: @KaradevFaceKid
-- 📫 Discord: karadevfacekid
+- 📫 Discord: archangel_princess
 - 📫 vk.com/GospodinKaradev
 
